@@ -1,4 +1,4 @@
-# Document-Clustering-and-Text-Prediction-with-Weka
+# Document Clustering and Text Prediction with Weka
 Data mining course project 
 
   * description of problem statement is mentioned in ProjectTask.pdf
